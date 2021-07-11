@@ -6,7 +6,7 @@
 	SUDOKU Solver
 
 	Details:
-	Brute-Force search using Commom Table Expression recursion.
+	Brute-Force search using Common Table Expression recursion.
 	The solver was first implemented and tested for a 4x4 SUDOKU grid, and then was extended for a 9x9 grid.
 
 
